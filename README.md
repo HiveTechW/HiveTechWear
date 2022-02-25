@@ -8,9 +8,9 @@ Hive-Techwear project, with a frontend built in React & Redux and a backend buil
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://hive-techwear-frontend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://hivetechwear-frontend.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://hive-techwear-backend.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://hivetechwear-backend.herokuapp.com/) here!!
 
 ## Tech used
 
@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://hive-techwear-backend.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone https://github.com/Tech-i-s/techis-wd-Hive-Techwear.git
+git clone https://github.com/HiveTechW/HiveTechWear.git
 ```
 
 2. Backend setting
